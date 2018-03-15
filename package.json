@@ -1,0 +1,28 @@
+{
+  "name": "req-geoip",
+  "version": "1.0.0",
+  "description": "An npm Package for Node.js use the geoip-lite pack and add several functions for request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergezdv/req-geoip.git"
+  },
+  "keywords": [
+    "request",
+    "ip",
+    "geo",
+    "geoip"
+  ],
+  "author": "Sergey Zadvorniy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sergezdv/req-geoip/issues"
+  },
+  "homepage": "https://github.com/Sergezdv/req-geoip#readme",
+  "dependencies": {
+    "geoip-lite": "^1.2.1"
+  }
+}
