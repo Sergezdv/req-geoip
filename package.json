@@ -1,6 +1,6 @@
 {
   "name": "req-geoip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An npm Package for Node.js use the geoip-lite pack and add several functions for request",
   "main": "index.js",
   "scripts": {

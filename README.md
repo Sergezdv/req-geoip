@@ -5,9 +5,9 @@ An npm Package for Node.js use the geoip-lite pack and add the search function b
 ## Basic Usage
 
 ```javascript
-var geoip = require("req_geoip");
+var geoip = require("req-geoip");
 
-app.get('/sone_path?ip=207.97.227.239', function(req, res) {
+app.get('/some_path?ip=207.97.227.239', function(req, res) {
     var result = { };
     result.geo = geoip.byIpParams(req);
  
